@@ -36,8 +36,8 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
