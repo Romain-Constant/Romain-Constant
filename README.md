@@ -1,9 +1,4 @@
 <p align="center">
-
-</p align="center">
-
-
-<p align="center">
   <a href="https://www.romainconstant.fr">
     <img src="https://github.com/Romain-Constant/Romain-Constant/assets/112573027/b3ee8107-d93e-4552-839a-28c671ab4fd1" />
   </a>
