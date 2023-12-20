@@ -10,12 +10,12 @@
 </p>
 
 
-<h2 align="center">
+<p align="center">
 <img src="https://badges.pufler.dev/repos/Romain-Constant"/>
   <img src="https://badges.pufler.dev/commits/yearly/Romain-Constant" />
 </p>
 
-<p style="text-align: center;">
+<h3 style="text-align: center;">
   Hey :wave: I'm Romain, a fullstack developer.
 
   Over the past 15 years, I've cultivated a diverse skill set at AG2R La Mondiale, focusing on customer relations, team management, project management, and training. My journey has also provided me with a solid foundation in Lean Management, a methodology that now guides every action I take. 🌱
@@ -29,7 +29,7 @@
   Are you in search of a professional who combines business experience, technical skills, and creativity in development? Ready to tackle new challenges, I am available to discuss my potential contribution to your team.
 
   As an aspiring craftsman, I am dedicated to exploring and mastering best practices such as clean code, clean architecture, TDD, katas, among others... 💻✨
-</h2>
+</h3>
  
 
 
