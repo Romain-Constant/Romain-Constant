@@ -1,6 +1,6 @@
 <p align="center">
 
-<p align="center">
+</p align="center">
 <img src="https://github.com/Romain-Constant/Romain-Constant/assets/112573027/70665218-c766-471d-832e-417e45557504" />
 
 <p align="center">
@@ -19,4 +19,11 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 
 </p>
 
+<p align="center">
+<img src="https://badges.pufler.dev/repos/Romain-Constant"/>
+</p>
+  
+
+
 <h2 align="center">Technology Stack</h2>
+
