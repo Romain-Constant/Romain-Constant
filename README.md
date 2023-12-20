@@ -1,4 +1,5 @@
 ### Hi there 👋
+![linkedin_banner](https://github.com/Romain-Constant/Romain-Constant/assets/112573027/70665218-c766-471d-832e-417e45557504)
 
 <!--
 **Romain-Constant/Romain-Constant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
