@@ -58,8 +58,8 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 <a href="https://www.linkedin.com/in/romainconstant/">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainconstant/"/>
 </a>
-  <a href="https://www.romain.constant.fr/">
- <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://www.romain.constant.fr/"/>
+  <a href="https://www.romainconstant.fr/">
+ <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://www.romainconstant.fr/"/>
 </a>
 </p>
 
