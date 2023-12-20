@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center">
+<h2 align="center">
 <img src="https://badges.pufler.dev/repos/Romain-Constant"/>
   <img src="https://badges.pufler.dev/commits/yearly/Romain-Constant" />
 </p>
@@ -29,7 +29,7 @@
   Are you in search of a professional who combines business experience, technical skills, and creativity in development? Ready to tackle new challenges, I am available to discuss my potential contribution to your team.
 
   As an aspiring craftsman, I am dedicated to exploring and mastering best practices such as clean code, clean architecture, TDD, katas, among others... 💻✨
-</p>
+</h2>
  
 
 
