@@ -38,7 +38,7 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
+<img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
@@ -47,7 +47,6 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 <h2 align="center">Contact me</h2>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: romain.constant59@gmail.com">
  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romain.constant59@gmail.com"/>
 </a>
