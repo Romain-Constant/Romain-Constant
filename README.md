@@ -40,11 +40,12 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=C21325"/>
 <img src="https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=vitest&logoColor=6E9F18"/>
+<img src="https://img.shields.io/badge/-ReactTestingLibrary-black?style=flat-square&logo=testinglibrary&logoColor=E33332"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
+testinglibrary
 <h2 align="center">Contact me</h2>
 
 <p align="center">
