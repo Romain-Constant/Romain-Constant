@@ -13,3 +13,5 @@ Are you in search of a professional who combines business experience, technical 
 
 As an aspiring craftsman, I am dedicated to exploring and mastering best practices such as clean code, clean architecture, TDD, katas, among others... 💻✨
 </p>
+
+<h1 align="center>Stack</h1>
