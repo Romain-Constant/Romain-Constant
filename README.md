@@ -59,3 +59,10 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainconstant/"/>
 </a>
 </p>
+
+<h2 align="center">My Github Stats</h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Romain-Constant&show_icons=true&theme=dracula&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Romain-Constant&hide=html,css&theme=dracula">
+</p>
