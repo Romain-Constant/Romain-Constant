@@ -36,6 +36,6 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript"/>
 </p>
 
