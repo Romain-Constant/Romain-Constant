@@ -48,3 +48,14 @@ As an aspiring craftsman, I am dedicated to exploring and mastering best practic
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+<h2 align="center">Contact me</h2>
+
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: romain.constant59@gmail.com">
+ <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romain.constant59@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/romainconstant/">
+ <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainconstant/"/>
+</a>
+</p>
