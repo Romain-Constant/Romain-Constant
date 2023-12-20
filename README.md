@@ -17,7 +17,7 @@
 
 <p align="center">
 
-Hey :wave: I'm Romain, a fullstack developer. <br/>
+Hey :wave: I'm Romain, a fullstack developer. <br/><br/>
 Over the past 15 years, I've cultivated a diverse skill set at AG2R La Mondiale, focusing on customer relations, team management, project management, and training. My journey has also provided me with a solid foundation in Lean Management, a methodology that now guides every action I take. 🌱
 
 In 2022, my passion for technology led me to transition into a full-stack developer role, with a particular focus on the frontend.
