@@ -6,10 +6,7 @@
 
 
 
-<p align="center">
-<img src="https://badges.pufler.dev/repos/Romain-Constant"/>
-  <img src="https://badges.pufler.dev/commits/yearly/Romain-Constant" />
-</p>
+
 
 <p>
 Hey :wave: I'm Romain, a fullstack developer.
