@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://www.romainconstant.fr">
-    <img src="https://github.com/Romain-Constant/Romain-Constant/assets/112573027/80d8614a-51d8-4c34-be69-76ae99e249f9" />
+    <img src="https://github.com/Romain-Constant/Romain-Constant/assets/112573027/1b9f879b-2e2e-4162-ae1a-444ea15fcf63" />
   </a>
+
 </p>
 
 <p align="center">
