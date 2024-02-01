@@ -13,7 +13,7 @@
 
 
 <p>
-Hey :wave: I'm Romain, a fullstack developer.
+Hey :wave: I'm Romain, a frontend developer.
   
 Over the past 15 years, I've cultivated a diverse skill set at AG2R La Mondiale, focusing on customer relations, team management, project management, and training. My journey has also provided me with a solid foundation in Lean Management, a methodology that now guides every action I take. 🌱
 
